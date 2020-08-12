@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\Downloads\\quirk\\.expo-shared"
+		},
+		{
+			"path": "..\\..\\..\\Downloads\\quirk\\.github"
+		},
+		{
+			"path": "..\\..\\..\\Downloads\\quirk\\android"
+		},
+		{
+			"path": "..\\..\\..\\Downloads\\quirk\\assets"
+		},
+		{
+			"path": "..\\..\\..\\Downloads\\quirk\\fastlane"
+		},
+		{
+			"path": "..\\..\\..\\Downloads\\quirk\\ios"
+		},
+		{
+			"path": "..\\..\\..\\Downloads\\quirk\\misc"
+		},
+		{
+			"path": "..\\..\\..\\Downloads\\quirk\\scripts"
+		},
+		{
+			"path": "..\\..\\..\\Downloads\\quirk\\src"
+		}
+	]
+}
